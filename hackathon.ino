@@ -108,3 +108,14 @@ if (irValue < 7000){
      }
 
 }
+
+----------------------------------------------------------------------------------
+/*
+if (irValue < 7000){       
+     beatAvg=0;
+     Serial.println("Please Place "); 
+     Serial.println("your finger ");  
+     noTone(3);
+     }
+
+}*/
